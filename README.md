@@ -1,2 +1,2 @@
-This is my first task to do from The Odin Project :)
+This is my first task from The Odin Project :)
 The recipes page
